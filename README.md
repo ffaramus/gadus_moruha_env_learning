@@ -32,7 +32,7 @@ The notebooks include **French explanations** for clarity and scientific reasoni
 
 ---
 
-## 🛠️ Methods
+## Methods
 
 The notebooks implement:
 
