@@ -25,8 +25,8 @@ The goal was to test classical supervised learning approaches and analyse their 
 
 ## Notebooks
 
-- `François_F_Morue_01.ipynb`: dataset exploration, preprocessing, first baseline models  
-- `François_F_Morue_02.ipynb`: improved modelling, performance comparison, discussion  
+- [François_F_Morue_01.ipynb]\(François_F_Morue_01.ipynb) : dataset exploration, preprocessing, first baseline models  
+- [François_F_Morue_02.ipynb]\(François_F_Morue_01.ipynb) : improved modelling, performance comparison, discussion  
 
 The notebooks include **French explanations** for clarity and scientific reasoning.
 
