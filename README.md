@@ -1,7 +1,7 @@
 # Cod Fish Distribution & Sensitivity Prediction  
 ### Supervised Machine Learning Project (AgroParisTech, 2025)
 
-This repository contains two notebooks exploring the use of **supervised machine learning models** to predict the **distribution** and **environmental sensitivity** of the Atlantic cod (*Gadus morhua*[...])
+This repository contains two notebooks exploring the use of **supervised machine learning models** to predict the **distribution** and **environmental sensitivity** of the Atlantic cod (*Gadus morhua*)
 
 The project was completed as part of the Machine Learning module at **AgroParisTech (specialisation IODAA – Data & AI)**.  
 All comments inside the notebooks are in French, while the code remains fully accessible to any user familiar with Python and scikit-learn.
